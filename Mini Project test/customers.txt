@@ -1,0 +1,25 @@
+Name: Haziq
+Email: mhrasydan@gmail.com
+Phone: 0145678907
+Address: unha
+------------------------
+Name: h
+Email: H
+Phone: 2
+Address: s
+------------------------
+Name: 
+Email: 2
+Phone: 2
+Address: 2
+------------------------
+Name: h
+Email: n
+Phone: 6
+Address: t
+------------------------
+Name: h
+Email: n
+Phone: 0
+Address: d
+------------------------
